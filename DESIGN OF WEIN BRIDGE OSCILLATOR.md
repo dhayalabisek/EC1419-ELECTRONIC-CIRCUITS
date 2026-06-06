@@ -15,9 +15,9 @@
 
 
 
-## Graph
 
-<img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
+
+
 
 
 
@@ -27,3 +27,4 @@ Theoritical Frequency of Oscillation =
 <img width="1204" height="1600" alt="image" src="https://github.com/user-attachments/assets/51b07d22-156e-4df1-8ac7-a0ac2d4f3aa7" />
 <img width="1204" height="1600" alt="image" src="https://github.com/user-attachments/assets/c244b034-f7e6-46ce-9a63-83607b3c7ba2" />
 
+<img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
